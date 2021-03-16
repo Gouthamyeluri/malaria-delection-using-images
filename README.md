@@ -1,1 +1,1 @@
-## malaria delection using cell image data
+## malaria delection using blood cell image data
